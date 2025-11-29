@@ -11,4 +11,4 @@ def test_math_multiply():
 
 
 def test_math_divide():
-    assert 6 / 3 == 2
+    assert 4 / 2 == 2
